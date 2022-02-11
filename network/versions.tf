@@ -9,9 +9,3 @@ terraform {
   }
   required_version = ">= 0.13"
 }
-
-/*terraform {
- backend local {
-    path = "../bootstrap/terraform.tfstate" 
-  }
-}*/
