@@ -1,0 +1,7 @@
+terraform.*
+.terraform
+.terrform.lock.hcl
+bootstrap/.terraform.lock.hcl
+network/.terraform.lock.hcl
+.DS_Store
+network/.DS_Store
